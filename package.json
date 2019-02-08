@@ -1,0 +1,24 @@
+{
+  "name": "calculateduedate",
+  "version": "0.0.1",
+  "description": "Emarsys due date calculator homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ceto/calculateDueDate.git"
+  },
+  "author": "Gábor Szabó",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceto/calculateDueDate/issues"
+  },
+  "homepage": "https://github.com/ceto/calculateDueDate#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-datetime": "^1.5.0",
+    "mocha": "^5.2.0"
+  }
+}
