@@ -17,8 +17,5 @@
   },
   "homepage": "https://github.com/ceto/calculateDueDate#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "chai-datetime": "^1.5.0",
-    "mocha": "^5.2.0"
   }
 }
